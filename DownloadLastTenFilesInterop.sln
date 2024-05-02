@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadLastTenFilesInterop", "ConsoleApp2\DownloadLastTenFilesInterop.csproj", "{E43723E6-2D53-4E84-A217-CA6E9AC349D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43723E6-2D53-4E84-A217-CA6E9AC349D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43723E6-2D53-4E84-A217-CA6E9AC349D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43723E6-2D53-4E84-A217-CA6E9AC349D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43723E6-2D53-4E84-A217-CA6E9AC349D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AB0EA1C-1A6B-4BD7-B4E4-E13B8B8AEE23}
+	EndGlobalSection
+EndGlobal
